@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
     "winstrap": "^0.5.10"
   },
   "devDependencies": {
