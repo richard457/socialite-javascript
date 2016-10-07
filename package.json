@@ -1,0 +1,28 @@
+{
+  "name": "socialite-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "winstrap": "^0.5.10"
+  },
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "winstrap": "^0.5.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard457/socialite-javascript.git"
+  },
+  "author": "Muragijimana Richard <beastar457@gmail.com> (http://streamupbox.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard457/socialite-javascript/issues"
+  },
+  "homepage": "https://github.com/richard457/socialite-javascript#readme"
+}
